@@ -1,0 +1,4 @@
+description = "Storyteller de AYNI: LeyDelMonte, tono del cuy y capítulos"
+default_capability_mode = "all"
+reasoning_effort = "high"
+default_fork_context = true

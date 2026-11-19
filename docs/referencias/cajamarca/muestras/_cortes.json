@@ -1,0 +1,182 @@
+[
+ {
+  "muestra": "cal-blanco.jpg",
+  "origen": "fachadas/casona-2mayo-fachada.jpg",
+  "caja": [
+   0.84,
+   0.43,
+   0.98,
+   0.7
+  ],
+  "pixeles": [
+   1613,
+   619,
+   1882,
+   1008
+  ],
+  "salida": [
+   269,
+   389
+  ]
+ },
+ {
+  "muestra": "cal-ocre.jpg",
+  "origen": "fachadas/casona-conde-uceda.jpg",
+  "caja": [
+   0.8,
+   0.38,
+   0.99,
+   0.7
+  ],
+  "pixeles": [
+   1536,
+   730,
+   1901,
+   1344
+  ],
+  "salida": [
+   365,
+   614
+  ]
+ },
+ {
+  "muestra": "revoco-desgastado.jpg",
+  "origen": "fachadas/puerta-cajamarca-a.jpg",
+  "caja": [
+   0.6,
+   0.18,
+   0.98,
+   0.62
+  ],
+  "pixeles": [
+   1152,
+   259,
+   1882,
+   893
+  ],
+  "salida": [
+   730,
+   634
+  ]
+ },
+ {
+  "muestra": "piedra-inca.jpg",
+  "origen": "monumentos/cuarto-rescate.jpg",
+  "caja": [
+   0.42,
+   0.28,
+   0.94,
+   0.74
+  ],
+  "pixeles": [
+   538,
+   238,
+   1203,
+   629
+  ],
+  "salida": [
+   665,
+   391
+  ]
+ },
+ {
+  "muestra": "canteria-belena.jpg",
+  "origen": "monumentos/belen-hospital.jpg",
+  "caja": [
+   0.08,
+   0.28,
+   0.34,
+   0.72
+  ],
+  "pixeles": [
+   102,
+   269,
+   435,
+   691
+  ],
+  "salida": [
+   333,
+   422
+  ]
+ },
+ {
+  "muestra": "techos-teja.jpg",
+  "origen": "monumentos/plaza-armas.jpg",
+  "caja": [
+   0.25,
+   0.02,
+   0.75,
+   0.2
+  ],
+  "pixeles": [
+   480,
+   22,
+   1440,
+   216
+  ],
+  "salida": [
+   900,
+   182
+  ]
+ },
+ {
+  "muestra": "empedrado.jpg",
+  "origen": "monumentos/belen-pileta.jpg",
+  "caja": [
+   0.05,
+   0.55,
+   0.55,
+   0.95
+  ],
+  "pixeles": [
+   96,
+   792,
+   1056,
+   1368
+  ],
+  "salida": [
+   900,
+   540
+  ]
+ },
+ {
+  "muestra": "piedra-azul-labrada.jpg",
+  "origen": "monumentos/plaza-pileta.jpg",
+  "caja": [
+   0.22,
+   0.6,
+   0.78,
+   0.8
+  ],
+  "pixeles": [
+   422,
+   864,
+   1498,
+   1152
+  ],
+  "salida": [
+   900,
+   241
+  ]
+ },
+ {
+  "muestra": "madera-puerta.jpg",
+  "origen": "fachadas/puerta-casa-2mayo.jpg",
+  "caja": [
+   0.3,
+   0.42,
+   0.72,
+   0.75
+  ],
+  "pixeles": [
+   576,
+   1075,
+   1382,
+   1920
+  ],
+  "salida": [
+   806,
+   845
+  ]
+ }
+]

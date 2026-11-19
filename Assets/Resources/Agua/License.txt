@@ -1,0 +1,4 @@
+Laguna y río. Texturas seamless CC0 de Hazmat Harry, OpenGameArt.
+https://opengameart.org/content/seamless-water-tiles
+No exige atribución.
+laguna.jpg es light_water.jpg. rio.jpg es dark_water.jpg.

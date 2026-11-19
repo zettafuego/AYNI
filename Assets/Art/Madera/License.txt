@@ -1,0 +1,8 @@
+Wooden Crate 01
+Author: James Ray Cock
+Source: https://polyhaven.com/a/wooden_crate_01
+License: CC0. No credit required.
+
+The 1k glTF was converted to FBX for this project.
+The diffuse texture is caja_diff.jpg beside CajaMadera.fbx in Assets/Resources/Madera.
+The crate is visual only. It does not block the street.

@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Eduardo\\AYNI-Unity\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|c:\\users\\eduardo\\ayni-unity\\assets\\scripts\\battle\\cajamarcacalles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\battle\\cajamarcacalles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|c:\\users\\eduardo\\ayni-unity\\assets\\shaders\\ayni_calle.shader||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|solutionrelative:assets\\shaders\\ayni_calle.shader||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CajamarcaCalles.cs",
+              "DocumentMoniker": "C:\\Users\\Eduardo\\AYNI-Unity\\Assets\\Scripts\\Battle\\CajamarcaCalles.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Battle\\CajamarcaCalles.cs",
+              "ToolTip": "C:\\Users\\Eduardo\\AYNI-Unity\\Assets\\Scripts\\Battle\\CajamarcaCalles.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Battle\\CajamarcaCalles.cs",
+              "ViewState": "AgIAANcBAAAAAAAAAAAuwPcBAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-26T01:01:18.785Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AYNI_Calle.shader",
+              "DocumentMoniker": "C:\\Users\\Eduardo\\AYNI-Unity\\Assets\\Shaders\\AYNI_Calle.shader",
+              "RelativeDocumentMoniker": "Assets\\Shaders\\AYNI_Calle.shader",
+              "ToolTip": "C:\\Users\\Eduardo\\AYNI-Unity\\Assets\\Shaders\\AYNI_Calle.shader",
+              "RelativeToolTip": "Assets\\Shaders\\AYNI_Calle.shader",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-10-25T18:53:08.883Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

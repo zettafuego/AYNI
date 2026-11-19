@@ -1,0 +1,19 @@
+Fantasy Town Kit (2.0)
+Created/distributed by Kenney (www.kenney.nl)
+Creation date: 03-08-2025
+
+License: Creative Commons Zero, CC0
+http://creativecommons.org/publicdomain/zero/1.0/
+
+You can use this content for personal, educational, and commercial purposes.
+Support by crediting 'Kenney' or 'www.kenney.nl' (this is not a requirement).
+
+Source: https://kenney.nl/assets/fantasy-town-kit
+Zip kept at Casas/fuentes/kenney_fantasy-town-kit_2.0.zip
+
+What the game uses:
+- Assets/Resources/Calle/Colonial/*.fbx and Textures/colormap.png
+- Assets/Resources/Calle/Props/light.fbx (lantern) and bench.fbx (stall-bench), with Props/Textures/colormap.png
+- Assets/Resources/Calle/Colonial/catalogo.json lists the pieces the edit palette can place.
+
+Roads, trees, rocks, hedges, banners and mills from the same pack were left out. The plaza casonas stay the four FBX in Calle/Casas.

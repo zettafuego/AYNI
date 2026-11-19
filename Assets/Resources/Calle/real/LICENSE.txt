@@ -1,0 +1,13 @@
+Texturas fotográficas CC0 (dominio público) de Poly Haven.
+https://polyhaven.com/license
+
+- piso_empedrado.png  ← cobblestone_floor_13, Charlotte Baglioni
+- piso_plaza.png      ← cobblestone_large_01, Rob Tuytel
+- muro_adobe.png      ← plastered_wall_04
+- fachada_colonial.png← plastered_wall_05
+- teja.png            ← roof_09
+- piedra.png          ← rock_wall_13
+- madera_oscura.png   ← brown_planks_03
+- cal_ocre.png        ← painted_plaster_wall
+
+Libres para uso comercial. Sin atribución obligatoria.

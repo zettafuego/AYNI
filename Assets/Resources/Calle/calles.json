@@ -1,0 +1,179 @@
+{
+ "streets": [
+  {
+   "name": "Jirón Amalia Puga",
+   "x": -82.73,
+   "z": 76.69,
+   "angle": -44.21,
+   "size": 4.3
+  },
+  {
+   "name": "Jirón Amalia Puga",
+   "x": 45.84,
+   "z": 49.55,
+   "angle": -44.24,
+   "size": 4.3
+  },
+  {
+   "name": "Jirón Amalia Puga",
+   "x": 86.1,
+   "z": -79.89,
+   "angle": -43.19,
+   "size": 4.3
+  },
+  {
+   "name": "Jirón Amazonas",
+   "x": 17.35,
+   "z": 150.84,
+   "angle": -39.81,
+   "size": 4.3
+  },
+  {
+   "name": "Jirón Amazonas",
+   "x": 85.51,
+   "z": 94.99,
+   "angle": -39.12,
+   "size": 4.3
+  },
+  {
+   "name": "Jirón Amazonas",
+   "x": 148.25,
+   "z": 43.6,
+   "angle": -39.96,
+   "size": 4.3
+  },
+  {
+   "name": "Jirón Cruz de Piedra",
+   "x": -96.97,
+   "z": -18.26,
+   "angle": 47.68,
+   "size": 4.3
+  },
+  {
+   "name": "Jirón Del Comercio",
+   "x": -132.19,
+   "z": 8.27,
+   "angle": -36.85,
+   "size": 4.3
+  },
+  {
+   "name": "Jirón Del Comercio",
+   "x": -48.0,
+   "z": -60.54,
+   "angle": -38.83,
+   "size": 4.3
+  },
+  {
+   "name": "Jirón Dos de Mayo",
+   "x": -104.2,
+   "z": -259.65,
+   "angle": 55.89,
+   "size": 3.4
+  },
+  {
+   "name": "Jirón Dos de Mayo",
+   "x": -26.97,
+   "z": -145.05,
+   "angle": 56.24,
+   "size": 4.3
+  },
+  {
+   "name": "Jirón Dos de Mayo",
+   "x": 24.21,
+   "z": -72.09,
+   "angle": 53.13,
+   "size": 4.3
+  },
+  {
+   "name": "Jirón Dos de Mayo",
+   "x": 96.34,
+   "z": 16.2,
+   "angle": 49.78,
+   "size": 4.3
+  },
+  {
+   "name": "Jirón Huánuco",
+   "x": -132.47,
+   "z": -273.27,
+   "angle": -22.0,
+   "size": 4.3
+  },
+  {
+   "name": "Jirón Junín",
+   "x": -137.03,
+   "z": -136.39,
+   "angle": -34.2,
+   "size": 4.3
+  },
+  {
+   "name": "Jirón Junín",
+   "x": -88.62,
+   "z": -167.8,
+   "angle": -32.38,
+   "size": 4.3
+  },
+  {
+   "name": "Jirón Junín",
+   "x": -33.77,
+   "z": -203.38,
+   "angle": -33.83,
+   "size": 4.3
+  },
+  {
+   "name": "Jirón Petateros",
+   "x": -100.5,
+   "z": -411.24,
+   "angle": -49.18,
+   "size": 3.4
+  },
+  {
+   "name": "Jirón San Martín",
+   "x": -210.06,
+   "z": -267.76,
+   "angle": 53.96,
+   "size": 3.4
+  },
+  {
+   "name": "Jirón San Martín",
+   "x": -158.13,
+   "z": -197.11,
+   "angle": 53.57,
+   "size": 4.4
+  },
+  {
+   "name": "Jirón San Martín",
+   "x": -85.83,
+   "z": -102.86,
+   "angle": 51.34,
+   "size": 4.4
+  },
+  {
+   "name": "Jirón del Batán",
+   "x": 7.85,
+   "z": 97.17,
+   "angle": 49.29,
+   "size": 4.3
+  },
+  {
+   "name": "Pasaje Atahualpa",
+   "x": -158.21,
+   "z": 9.41,
+   "angle": 48.56,
+   "size": 4.4
+  },
+  {
+   "name": "Pasaje Colina Santa Apolonia",
+   "x": -115.62,
+   "z": -359.48,
+   "angle": -8.21,
+   "size": 4.3
+  },
+  {
+   "name": "Pasaje de la Cultura",
+   "x": 34.55,
+   "z": -128.72,
+   "angle": -39.82,
+   "size": 4.4
+  }
+ ]
+}
